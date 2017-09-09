@@ -1,9 +1,9 @@
 # eurekaclinical-service-registry-client
 [Atlanta Clinical and Translational Science Institute (ACTSI)](http://www.actsi.org), [Emory University](http://www.emory.edu), Atlanta, GA
 
-It provides a REST API client, `org.eurekaclinical.serviceregistry.client.Client.java`, for calling the eurekaclinical-service-registry-service's REST APIs.
+It provides a REST API client, `org.eurekaclinical.registry.client.Client.java`, for calling the eurekaclinical-registry-service's REST APIs.
 
-Latest release: [![Latest release](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-service-registry-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-service-registry-client)
+Latest release: [![Latest release](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-registry-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-registry-client)
 
 No final releases yet
 
@@ -17,11 +17,11 @@ The project uses the maven build tool. Typically, you build it by invoking `mvn 
 ```
 <dependency>
     <groupId>org.eurekaclinical</groupId>
-    <artifactId>eurekaclinical-service-registry-client</artifactId>
+    <artifactId>eurekaclinical-registry-client</artifactId>
     <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
 
-* [Javadoc for latest development release](http://javadoc.io/doc/org.eurekaclinical/eurekaclinical-service-registry-client) [![Javadocs](http://javadoc.io/badge/org.eurekaclinical/eurekaclinical-service-registry-client.svg)](http://javadoc.io/doc/org.eurekaclinical/eurekaclinical-service-registry-client)
+* [Javadoc for latest development release](http://javadoc.io/doc/org.eurekaclinical/eurekaclinical-registry-client) [![Javadocs](http://javadoc.io/badge/org.eurekaclinical/eurekaclinical-registry-client.svg)](http://javadoc.io/doc/org.eurekaclinical/eurekaclinical-registry-client)
 
 Feel free to contact us at help@eurekaclinical.org.
