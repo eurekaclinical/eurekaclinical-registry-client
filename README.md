@@ -18,7 +18,7 @@ The project uses the maven build tool. Typically, you build it by invoking `mvn 
 <dependency>
     <groupId>org.eurekaclinical</groupId>
     <artifactId>eurekaclinical-registry-client</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-Alpha-1</version>
 </dependency>
 ```
 
