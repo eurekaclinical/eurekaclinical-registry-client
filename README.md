@@ -1,4 +1,4 @@
-# eurekaclinical-service-registry-client
+# Eureka! Clinical Registry Client
 [Atlanta Clinical and Translational Science Institute (ACTSI)](http://www.actsi.org), [Emory University](http://www.emory.edu), Atlanta, GA
 
 It provides a REST API client, `org.eurekaclinical.registry.client.EurekaClinicalRegistryClient.java`, for calling the eurekaclinical-registry-service's REST APIs.
