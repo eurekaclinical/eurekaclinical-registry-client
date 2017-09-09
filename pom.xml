@@ -14,18 +14,18 @@
         <version>2-Beta-4</version>
     </parent>
 
-    <url>https://github.com/eurekaclinical/eurekaclinical-service-registry-client.git</url>
+    <url>https://github.com/eurekaclinical/eurekaclinical-registry-client.git</url>
 
     <scm>
-        <connection>scm:git:https://github.com/eurekaclinical/eurekaclinical-service-registry-client.git</connection>
-        <developerConnection>scm:git:https://github.com/eurekaclinical/eurekaclinical-service-registry-client.git</developerConnection>
-        <url>https://github.com/eurekaclinical/eurekaclinical-service-registry-client.git</url>
+        <connection>scm:git:https://github.com/eurekaclinical/eurekaclinical-registry-client.git</connection>
+        <developerConnection>scm:git:https://github.com/eurekaclinical/eurekaclinical-registry-client.git</developerConnection>
+        <url>https://github.com/eurekaclinical/eurekaclinical-registry-client.git</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/eurekaclinical/eurekaclinical-service-registry-client/issues</url>
+        <url>https://github.com/eurekaclinical/eurekaclinical-registry-client/issues</url>
     </issueManagement>
 
     <properties>
