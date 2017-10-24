@@ -27,6 +27,7 @@ package org.eurekaclinical.registry.client.comm;
 public class Component {
     private Long id;
     private String name;
+    private String displayName;
     private String description;
     private String url;
     private Long type;
@@ -45,6 +46,14 @@ public class Component {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getDisplayName() {
+        return displayName;
+    }
+
+    public void setDisplayName(String displayName) {
+        this.displayName = displayName;
     }
 
     public String getDescription() {
