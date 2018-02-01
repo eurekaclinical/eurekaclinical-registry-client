@@ -31,6 +31,7 @@ public class Component {
     private String description;
     private String url;
     private Long type;
+    private String icon;
 
     public Long getId() {
         return id;
@@ -78,6 +79,14 @@ public class Component {
 
     public void setType(Long type) {
         this.type = type;
+    }
+    
+    public String getIcon(){
+        return this.icon;
+    }
+    
+    public void setIcon(String icon){
+        this.icon = icon;
     }
     
 }
