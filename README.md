@@ -3,9 +3,14 @@
 
 It provides a REST API client, `org.eurekaclinical.registry.client.EurekaClinicalRegistryClient.java`, for calling the eurekaclinical-registry-service's REST APIs.
 
+## Version history
 Latest release: [![Latest release](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-registry-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-registry-client)
 
-No final releases yet
+### Version 1.1 (Beta)
+This version is in beta and will add an icon property to components.
+
+### Version 1.0
+Initial release.
 
 * [Oracle Java JDK 8](http://www.oracle.com/technetwork/java/javase/overview/index.html)
 * [Maven 3.2.5 or greater](https://maven.apache.org)
@@ -18,7 +23,7 @@ The project uses the maven build tool. Typically, you build it by invoking `mvn 
 <dependency>
     <groupId>org.eurekaclinical</groupId>
     <artifactId>eurekaclinical-registry-client</artifactId>
-    <version>1.0-Alpha-1</version>
+    <version>version</version>
 </dependency>
 ```
 
