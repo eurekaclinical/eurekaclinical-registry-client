@@ -20,22 +20,33 @@ package org.eurekaclinical.registry.client.comm;
  * #L%
  */
 
+
+
 import java.util.List;
 import org.eurekaclinical.common.comm.Group;
 
 /**
- *
- * @author Dileep Gunda
- */
+*
+* @author Dileep Gunda
+*/
 public class RegistryGroup extends Group {
 
-	private List<Long> components;
+    private List<Long> users;
+    private List<Long> components;
 
-	public List<Long> getComponents() {
-		return components;
-	}
+    public List<Long> getUsers() {
+        return users;
+    }
 
-	public void setComponents(List<Long> components) {
-		this.components = components;
-	}
+    public void setUsers(List<Long> users) {
+        this.users = users;
+    }
+
+    public List<Long> getComponents() {
+        return components;
+    }
+
+    public void setComponents(List<Long> components) {
+        this.components = components;
+    }
 }
