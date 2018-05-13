@@ -33,10 +33,10 @@ The project uses the maven build tool. Typically, you build it by invoking `mvn 
     <version>version</version>
 </dependency>
 ```
-# Developer documentation
+## Developer documentation
 
 * [Javadoc for latest development release](http://javadoc.io/doc/org.eurekaclinical/eurekaclinical-registry-client) [![Javadocs](http://javadoc.io/badge/org.eurekaclinical/eurekaclinical-registry-client.svg)](http://javadoc.io/doc/org.eurekaclinical/eurekaclinical-registry-client)
 
-# Getting help
+## Getting help
 
 Feel free to contact us at help@eurekaclinical.org.
