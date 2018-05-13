@@ -1,15 +1,14 @@
 # Eureka! Clinical Registry Client
-[Atlanta Clinical and Translational Science Institute (ACTSI)](http://www.actsi.org), [Emory University](http://www.emory.edu), Atlanta, GA
+[Georgia Clinical and Translational Science Alliance (Georgia CTSA)](http://www.georgiactsa.org), [Emory University](http://www.emory.edu), Atlanta, GA
 
 It provides a REST API client, `org.eurekaclinical.registry.client.EurekaClinicalRegistryClient.java`, for calling the eurekaclinical-registry-service's REST APIs.
 
-## Version history
+## Version 1.1 development series
 Latest release: [![Latest release](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-registry-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-registry-client)
 
-### Version 1.1 (Beta)
 This version is in beta and will add an icon property to components.
 
-### Version 1.0
+## Version 1.0
 Initial release.
 
 * [Oracle Java JDK 8](http://www.oracle.com/technetwork/java/javase/overview/index.html)
