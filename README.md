@@ -3,10 +3,10 @@
 
 It provides a REST API client, `org.eurekaclinical.registry.client.EurekaClinicalRegistryClient.java`, for calling the eurekaclinical-registry-service's REST APIs.
 
-## Version 1.1 development series
 Latest release: [![Latest release](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-registry-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-registry-client)
 
-This version is in beta and will add an icon property to components.
+## Version 1.1
+Adds an icon property to components.
 
 ## Version 1.0
 Initial release.
