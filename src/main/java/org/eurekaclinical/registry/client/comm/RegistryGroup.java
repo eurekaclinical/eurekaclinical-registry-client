@@ -19,7 +19,6 @@ package org.eurekaclinical.registry.client.comm;
  * limitations under the License.
  * #L%
  */
-
 import java.util.List;
 import org.eurekaclinical.common.comm.Group;
 
@@ -29,13 +28,13 @@ import org.eurekaclinical.common.comm.Group;
  */
 public class RegistryGroup extends Group {
 
-	private List<Long> components;
+    private List<Long> components;
 
-	public List<Long> getComponents() {
-		return components;
-	}
+    public List<Long> getComponents() {
+        return components;
+    }
 
-	public void setComponents(List<Long> components) {
-		this.components = components;
-	}
+    public void setComponents(List<Long> components) {
+        this.components = components;
+    }
 }
