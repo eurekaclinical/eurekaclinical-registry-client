@@ -5,6 +5,9 @@ It provides a REST API client, `org.eurekaclinical.registry.client.EurekaClinica
 
 Latest release: [![Latest release](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-registry-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-registry-client)
 
+## Version 1.4
+Update dependencies.
+
 ## Version 1.3
 Updates dependencies.
 
