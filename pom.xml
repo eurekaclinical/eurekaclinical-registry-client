@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.eurekaclinical</groupId>
     <artifactId>eurekaclinical-registry-client</artifactId>
-    <version>1.4-Beta-6-SNAPSHOT</version>
+    <version>1.6-Alpha-1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <inceptionYear>2017</inceptionYear>
     <name>Eureka! Clinical Registry Client</name>
@@ -29,7 +29,7 @@
     </issueManagement>
 
     <properties>
-        <eurekaclinical-common-version>5.0-Alpha-7-SNAPSHOT</eurekaclinical-common-version>
+        <eurekaclinical-common-version>5.1-Alpha-1-SNAPSHOT</eurekaclinical-common-version>
     </properties>
 
     <build>
